@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Shakil281
+- I am a student of Howard University 28'. Currently doing bachelors in Computer Science.
 
 
 <!---
